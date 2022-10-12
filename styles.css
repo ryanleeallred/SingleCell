@@ -1,0 +1,30 @@
+body {
+    display: flex;
+}
+
+.container {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#startup {
+    width: 100%;
+    text-align: center;
+}
+
+#code {
+    width: 100%;
+    margin: 2em 0;
+    resize: none;
+}
+
+#button {
+    display: inline-block;
+}
+
+#output {
+    width: 100%;
+    margin: 2em 0;
+    resize: none;
+}
